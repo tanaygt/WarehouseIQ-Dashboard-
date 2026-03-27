@@ -1,0 +1,9 @@
+# ─────────────────────────────────────────────────────────────────
+# WarehouseIQ Dashboard — Requirements
+# Built by Tanay Shrivastava | AI • Data • Supply Chain
+# ─────────────────────────────────────────────────────────────────
+
+streamlit
+pandas
+numpy
+plotly
